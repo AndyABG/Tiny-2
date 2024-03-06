@@ -45,5 +45,6 @@ Misumi HFSB5-2020-140				1 (rear gantry extrusion)
 - [Boop](https://github.com/PrintersForAnts/Boop) by `Yeri`, and `Mastur_Mynd`
 - [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by `Chirpy2605`(Tiny-2 Branded cowl located [here]() )
 - [Carbon Filter](https://github.com/Jadecky/3DPF/tree/main) by `Jadecky` (2020 mounts located [here]())
+- [BZI](https://github.com/clee/VoronBFI/tree/main/STLs/BZI) By `KayosMaker`, And `hartk1213`
 - [Modified Front Idlers](https://github.com/AndyABG/3D-Printer-Mods/tree/main/Voron/v2.4/Modified%20Front%20Idlers) by `DoubleT`, `Genevamotion`, and `AndyABG`
 
