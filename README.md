@@ -1,10 +1,7 @@
 # Tiny-2
-### Disclaimer: This project is a WIP and it may have issues that have yet to be discoverd - files will be posted once porject ideas are finilized. 
+### Disclaimer: This project is a WIP and it may have issues that have yet to be discoverd - files will be posted once project ideas are finilized. 
 ![Angled View](/Images/angled_view.png)
-
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Tiny-2&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
-
-[![](https://img.shields.io/discord/825469421346226226?color=teal&label=Tiny-2&logo=discord&logoColor=fafafa)](https://discord.com/channels/825469421346226226/1215048434864885821) 
 
 ## About the Build
 
