@@ -1,18 +1,17 @@
 # Tiny-2
-### Disclaimer: This project is a WIP and it may have issues that have yet to be discoverd - files will be posted once project ideas are finilized. 
+### Disclaimer: This project is a WIP and it may have issues that have yet to be discoverd - CAD will be posted once project ideas are finilized. 
 ![Angled View](/Images/angled_view.png)
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Tiny-2&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 
 ## About the Build
 
-The Tiny-2 is shrunk down version of the Voron 2 with a build volume of 150mm^3. 
+The Tiny-2 is a shrunk down version of the [Voron 2](https://github.com/VoronDesign/Voron-2) with a build volume of 150mm^3. 
 
-The printer also shares 2 features from the Micron +:
+The printer also shares 2 features from the [Micron +](https://github.com/PrintersForAnts/Micron):
 - The width between bed extrusions is 85mm.
     - This Allows you to use any MODs that where designed to fit between the bed extrusion as long as you make a 2020 mount for said MOD
 - The cut out on the rear panel for the bowden tube entry plate.
     - This allows you to use any MODs that where designed to go in that slot. 
-        - #### I may remove this or give the option to use the orginal Voron 2 filter cutout
 
 Source: https://github.com/VoronDesign/Voron-2
 
@@ -23,7 +22,7 @@ If you order from Misumi, these are the Frame specs:
 
 ```
 Misumi HFSB5-2020-400-LCP-RCP		4 (corner extrusion)
-Misumi HFSB5-2020-270-TPW 			10 (front, left, right, rear: [top/bottom], bed extrusion)
+Misumi HFSB5-2020-270-TPW 			10 (front, rear, left, right: [top/bottom], bed extrusion)
 Misumi HFSB5-2020-230				1 (x gantry extrusion)
 Misumi HFSB5-2020-250				2 (y gantry extrusion)
 Misumi HFSB5-2020-140				1 (rear gantry extrusion)
@@ -48,8 +47,7 @@ Misumi HFSB5-2020-140				1 (rear gantry extrusion)
 ### Mods used
 
 - [Boop](https://github.com/PrintersForAnts/Boop) by `Yeri`, and `Mastur_Mynd`
-- [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by `Chirpy2605`(Tiny-2 Branded cowl located [here]() )
-- [Carbon Filter](https://github.com/Jadecky/3DPF/tree/main) by `Jadecky` (2020 mounts located [here]())
+- [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by `Chirpy2605`(Tiny-2 Branded cowl located [here](/STLs/Gantry/X_Axis/X_Carriage/Toolheads/Dragon%20Burner) )
+- [Carbon Filter](https://github.com/Jadecky/3DPF/tree/main) by `Jadecky` (2020 mounts located [here](/MODS/3DPF_v2))
 - [BZI](https://github.com/clee/VoronBFI/tree/main/STLs/BZI) By `KayosMaker`, And `hartk1213`
 - [Modified Front Idlers](https://github.com/AndyABG/3D-Printer-Mods/tree/main/Voron/v2.4/Modified%20Front%20Idlers) by `DoubleT`, `Genevamotion`, and `AndyABG`
-
